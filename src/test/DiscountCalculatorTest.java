@@ -4,7 +4,7 @@ import discountCalculator.DiscountCalculator;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class discountCalculatorTest {
+public class DiscountCalculatorTest {
 
     DiscountCalculator discountCalculator = new DiscountCalculator();
 
